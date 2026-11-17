@@ -1,0 +1,878 @@
+[
+ {
+  "id": "1",
+  "name": "Accountant",
+  "image": "/images/no-image.png",
+  "count": 9
+ },
+ {
+  "id": "2",
+  "name": "Accounts, Finance & Financial Services",
+  "image": "/images/no-image.png",
+  "count": 14
+ },
+ {
+  "id": "3",
+  "name": "Admin",
+  "image": "/uploads/functional_area/admin_26.png",
+  "count": 5
+ },
+ {
+  "id": "4",
+  "name": "Admin Operation",
+  "image": "/images/no-image.png",
+  "count": 4
+ },
+ {
+  "id": "5",
+  "name": "Administration",
+  "image": "/images/no-image.png",
+  "count": 4
+ },
+ {
+  "id": "6",
+  "name": "Administration Clerical",
+  "image": "/images/no-image.png",
+  "count": 2
+ },
+ {
+  "id": "7",
+  "name": "Advertising",
+  "image": "/uploads/functional_area/search_560.png",
+  "count": 2
+ },
+ {
+  "id": "8",
+  "name": "Advertising",
+  "image": "/uploads/functional_area/search_382.png",
+  "count": 3
+ },
+ {
+  "id": "9",
+  "name": "Advertisment",
+  "image": "/images/no-image.png",
+  "count": 1
+ },
+ {
+  "id": "10",
+  "name": "Architects & Construction",
+  "image": "/images/no-image.png",
+  "count": 2
+ },
+ {
+  "id": "11",
+  "name": "Architecture",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "12",
+  "name": "Bank Operation",
+  "image": "/uploads/functional_area/bank_241.png",
+  "count": 3
+ },
+ {
+  "id": "13",
+  "name": "Business Development",
+  "image": "/images/no-image.png",
+  "count": 11
+ },
+ {
+  "id": "14",
+  "name": "Business Management",
+  "image": "/uploads/functional_area/project-management_803.png",
+  "count": 5
+ },
+ {
+  "id": "15",
+  "name": "Business Systems Analyst",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "16",
+  "name": "Clerical",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "17",
+  "name": "Client Services & Customer Support",
+  "image": "/images/no-image.png",
+  "count": 14
+ },
+ {
+  "id": "18",
+  "name": "Computer Hardware",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "19",
+  "name": "Computer Networking",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "20",
+  "name": "Consultant",
+  "image": "/images/no-image.png",
+  "count": 4
+ },
+ {
+  "id": "21",
+  "name": "Content Writer",
+  "image": "/images/no-image.png",
+  "count": 5
+ },
+ {
+  "id": "22",
+  "name": "Corporate Affairs",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "23",
+  "name": "Creative Design",
+  "image": "/uploads/functional_area/creativity_128.png",
+  "count": 7
+ },
+ {
+  "id": "24",
+  "name": "Creative Writer",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "25",
+  "name": "Customer Support",
+  "image": "/images/no-image.png",
+  "count": 6
+ },
+ {
+  "id": "26",
+  "name": "Data Entry",
+  "image": "/images/no-image.png",
+  "count": 2
+ },
+ {
+  "id": "27",
+  "name": "Data Entry Operator",
+  "image": "/images/no-image.png",
+  "count": 1
+ },
+ {
+  "id": "28",
+  "name": "Database Administration (DBA)",
+  "image": "/uploads/functional_area/2758751_874.png",
+  "count": 1
+ },
+ {
+  "id": "29",
+  "name": "Development",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "30",
+  "name": "Distribution & Logistics",
+  "image": "/images/no-image.png",
+  "count": 1
+ },
+ {
+  "id": "31",
+  "name": "Education & Training",
+  "image": "/images/no-image.png",
+  "count": 12
+ },
+ {
+  "id": "32",
+  "name": "Electronics Technician",
+  "image": "/uploads/functional_area/circuit-board_995.png",
+  "count": 2
+ },
+ {
+  "id": "33",
+  "name": "Engineering",
+  "image": "/images/no-image.png",
+  "count": 38
+ },
+ {
+  "id": "34",
+  "name": "Engineering Construction",
+  "image": "/images/no-image.png",
+  "count": 3
+ },
+ {
+  "id": "35",
+  "name": "Executive Management",
+  "image": "/images/no-image.png",
+  "count": 2
+ },
+ {
+  "id": "36",
+  "name": "Executive Secretary",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "37",
+  "name": "Field Operations",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "38",
+  "name": "Front Desk Clerk",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "39",
+  "name": "Front Desk Officer",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "40",
+  "name": "Graphic Design",
+  "image": "/uploads/functional_area/logo-design_755.png",
+  "count": 5
+ },
+ {
+  "id": "41",
+  "name": "Hardware",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "42",
+  "name": "Health & Medicine",
+  "image": "/images/no-image.png",
+  "count": 4
+ },
+ {
+  "id": "43",
+  "name": "Health & Safety",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "44",
+  "name": "Health Care",
+  "image": "/images/no-image.png",
+  "count": 14
+ },
+ {
+  "id": "45",
+  "name": "Health Related",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "46",
+  "name": "Hotel Management",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "47",
+  "name": "Hotel/Restaurant Management",
+  "image": "/images/no-image.png",
+  "count": 8
+ },
+ {
+  "id": "48",
+  "name": "HR",
+  "image": "/images/no-image.png",
+  "count": 1
+ },
+ {
+  "id": "49",
+  "name": "Human Resources",
+  "image": "/images/no-image.png",
+  "count": 12
+ },
+ {
+  "id": "50",
+  "name": "Import & Export",
+  "image": "/images/no-image.png",
+  "count": 2
+ },
+ {
+  "id": "51",
+  "name": "Industrial Production",
+  "image": "/images/no-image.png",
+  "count": 1
+ },
+ {
+  "id": "52",
+  "name": "Installation & Repair",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "53",
+  "name": "Interior Designers & Architects",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "54",
+  "name": "Intern",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "55",
+  "name": "Internship",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "56",
+  "name": "Investment Operations",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "57",
+  "name": "IT Security",
+  "image": "/images/no-image.png",
+  "count": 2
+ },
+ {
+  "id": "58",
+  "name": "IT Systems Analyst",
+  "image": "/images/no-image.png",
+  "count": 2
+ },
+ {
+  "id": "59",
+  "name": "Legal & Corporate Affairs",
+  "image": "/images/no-image.png",
+  "count": 2
+ },
+ {
+  "id": "60",
+  "name": "Legal Affairs",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "61",
+  "name": "Legal Research",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "62",
+  "name": "Logistics & Warehousing",
+  "image": "/images/no-image.png",
+  "count": 4
+ },
+ {
+  "id": "63",
+  "name": "Maintenance/Repair",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "64",
+  "name": "Management Consulting",
+  "image": "/images/no-image.png",
+  "count": 4
+ },
+ {
+  "id": "65",
+  "name": "Management Information System (MIS)",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "66",
+  "name": "Managerial",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "67",
+  "name": "Manufacturing",
+  "image": "/images/no-image.png",
+  "count": 1
+ },
+ {
+  "id": "68",
+  "name": "Manufacturing & Operations",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "69",
+  "name": "Marketing",
+  "image": "/images/no-image.png",
+  "count": 30
+ },
+ {
+  "id": "70",
+  "name": "Marketing",
+  "image": "/images/no-image.png",
+  "count": 10
+ },
+ {
+  "id": "71",
+  "name": "Media - Print & Electronic",
+  "image": "/images/no-image.png",
+  "count": 1
+ },
+ {
+  "id": "72",
+  "name": "Media & Advertising",
+  "image": "/images/no-image.png",
+  "count": 1
+ },
+ {
+  "id": "73",
+  "name": "Medical",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "74",
+  "name": "Medicine",
+  "image": "/uploads/functional_area/drugs_384.png",
+  "count": 0
+ },
+ {
+  "id": "75",
+  "name": "Merchandising",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "76",
+  "name": "Merchandising & Product Management",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "77",
+  "name": "Monitoring & Evaluation (M&E)",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "78",
+  "name": "Network Administration",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "79",
+  "name": "Network Operation",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "80",
+  "name": "Online Advertising",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "81",
+  "name": "Online Marketing",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "82",
+  "name": "Operations",
+  "image": "/images/no-image.png",
+  "count": 6
+ },
+ {
+  "id": "83",
+  "name": "Planning",
+  "image": "/images/no-image.png",
+  "count": 2
+ },
+ {
+  "id": "84",
+  "name": "Planning & Development",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "85",
+  "name": "PR",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "86",
+  "name": "Print Media",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "87",
+  "name": "Printing",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "88",
+  "name": "Procurement",
+  "image": "/images/no-image.png",
+  "count": 1
+ },
+ {
+  "id": "89",
+  "name": "Product Developer",
+  "image": "/images/no-image.png",
+  "count": 1
+ },
+ {
+  "id": "90",
+  "name": "Product Development",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "91",
+  "name": "Product Development",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "92",
+  "name": "Product Management",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "93",
+  "name": "Production",
+  "image": "/images/no-image.png",
+  "count": 2
+ },
+ {
+  "id": "94",
+  "name": "Production & Quality Control",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "95",
+  "name": "Project Management",
+  "image": "/images/no-image.png",
+  "count": 2
+ },
+ {
+  "id": "96",
+  "name": "Project Management Consultant",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "97",
+  "name": "Public Relations",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "98",
+  "name": "QA",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "99",
+  "name": "QC",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "100",
+  "name": "Qualitative Research",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "101",
+  "name": "Quality Assurance (QA)",
+  "image": "/images/no-image.png",
+  "count": 2
+ },
+ {
+  "id": "102",
+  "name": "Quality Control",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "103",
+  "name": "Quality Inspection",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "104",
+  "name": "Recruiting",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "105",
+  "name": "Recruitment",
+  "image": "/images/no-image.png",
+  "count": 3
+ },
+ {
+  "id": "106",
+  "name": "Repair & Overhaul",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "107",
+  "name": "Research & Development (R&D)",
+  "image": "/images/no-image.png",
+  "count": 1
+ },
+ {
+  "id": "108",
+  "name": "Research & Evaluation",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "109",
+  "name": "Research & Fellowships",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "110",
+  "name": "Researcher",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "111",
+  "name": "Restaurant Management",
+  "image": "/images/no-image.png",
+  "count": 4
+ },
+ {
+  "id": "112",
+  "name": "Retail",
+  "image": "/images/no-image.png",
+  "count": 5
+ },
+ {
+  "id": "113",
+  "name": "Retail & Wholesale",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "114",
+  "name": "Retail Buyer",
+  "image": "/images/no-image.png",
+  "count": 1
+ },
+ {
+  "id": "115",
+  "name": "Retail Buying",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "116",
+  "name": "Retail Merchandising",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "117",
+  "name": "Safety & Environment",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "118",
+  "name": "Sales",
+  "image": "/images/no-image.png",
+  "count": 99
+ },
+ {
+  "id": "119",
+  "name": "Sales & Business Development",
+  "image": "/images/no-image.png",
+  "count": 15
+ },
+ {
+  "id": "120",
+  "name": "Sales Support",
+  "image": "/images/no-image.png",
+  "count": 1
+ },
+ {
+  "id": "121",
+  "name": "Search Engine Optimization (SEO)",
+  "image": "/images/no-image.png",
+  "count": 2
+ },
+ {
+  "id": "122",
+  "name": "Secretarial, Clerical & Front Office",
+  "image": "/images/no-image.png",
+  "count": 2
+ },
+ {
+  "id": "123",
+  "name": "Security",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "124",
+  "name": "Security & Environment",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "125",
+  "name": "Security Guard",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "126",
+  "name": "SEM",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "127",
+  "name": "SMO",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "128",
+  "name": "Software & Web Development",
+  "image": "/uploads/functional_area/software_46.png",
+  "count": 1
+ },
+ {
+  "id": "129",
+  "name": "Software Engineer",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "130",
+  "name": "Software Testing",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "131",
+  "name": "Stores & Warehousing",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "132",
+  "name": "Supply Chain",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "133",
+  "name": "Supply Chain Management",
+  "image": "/images/no-image.png",
+  "count": 1
+ },
+ {
+  "id": "134",
+  "name": "Systems Analyst",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "135",
+  "name": "Teachers/Education, Training & Development",
+  "image": "/images/no-image.png",
+  "count": 2
+ },
+ {
+  "id": "136",
+  "name": "Technical Writer",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "137",
+  "name": "Tele Sale Representative",
+  "image": "/images/no-image.png",
+  "count": 9
+ },
+ {
+  "id": "138",
+  "name": "Telemarketing",
+  "image": "/images/no-image.png",
+  "count": 2
+ },
+ {
+  "id": "139",
+  "name": "Training & Development",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "140",
+  "name": "Transportation & Warehousing",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "141",
+  "name": "TSR",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "142",
+  "name": "Typing",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "143",
+  "name": "Warehousing",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "144",
+  "name": "Web Developer",
+  "image": "/uploads/functional_area/coding%20(1)_153.png",
+  "count": 0
+ },
+ {
+  "id": "145",
+  "name": "Web Marketing",
+  "image": "/images/no-image.png",
+  "count": 0
+ },
+ {
+  "id": "146",
+  "name": "Writer",
+  "image": "/images/no-image.png",
+  "count": 0
+ }
+]

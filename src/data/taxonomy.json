@@ -1,0 +1,708 @@
+{
+ "functionalAreas": [
+  {
+   "id": "1",
+   "name": "Accountant",
+   "jobs": [
+    "ke-toan-truong-527",
+    "ke-toan-truong-530",
+    "ke-toan-truong-547"
+   ]
+  },
+  {
+   "id": "2",
+   "name": "Accounts, Finance & Financial Services",
+   "jobs": [
+    "chuyen-vien-tai-chinh-ngan-hang-532"
+   ]
+  },
+  {
+   "id": "3",
+   "name": "Admin",
+   "jobs": [
+    "tro-ly-giam-doc-526"
+   ]
+  },
+  {
+   "id": "4",
+   "name": "Admin Operation",
+   "jobs": [
+    "truong-nhom-van-hanh-tiktok-shop-471"
+   ]
+  },
+  {
+   "id": "5",
+   "name": "Administration",
+   "jobs": []
+  },
+  {
+   "id": "6",
+   "name": "Administration Clerical",
+   "jobs": []
+  },
+  {
+   "id": "7",
+   "name": "Advertising",
+   "jobs": []
+  },
+  {
+   "id": "8",
+   "name": "Advertising",
+   "jobs": []
+  },
+  {
+   "id": "9",
+   "name": "Advertisment",
+   "jobs": []
+  },
+  {
+   "id": "10",
+   "name": "Architects & Construction",
+   "jobs": []
+  },
+  {
+   "id": "12",
+   "name": "Bank Operation",
+   "jobs": []
+  },
+  {
+   "id": "13",
+   "name": "Business Development",
+   "jobs": []
+  },
+  {
+   "id": "14",
+   "name": "Business Management",
+   "jobs": []
+  },
+  {
+   "id": "17",
+   "name": "Client Services & Customer Support",
+   "jobs": [
+    "nhan-vien-cham-soc-khach-hang-momo-505"
+   ]
+  },
+  {
+   "id": "20",
+   "name": "Consultant",
+   "jobs": []
+  },
+  {
+   "id": "21",
+   "name": "Content Writer",
+   "jobs": [
+    "content-creator-486",
+    "chuyen-vien-noi-dung-marketing-487"
+   ]
+  },
+  {
+   "id": "23",
+   "name": "Creative Design",
+   "jobs": []
+  },
+  {
+   "id": "25",
+   "name": "Customer Support",
+   "jobs": [
+    "nhan-vien-cham-soc-khach-hang-shopee-pay-cs-502"
+   ]
+  },
+  {
+   "id": "26",
+   "name": "Data Entry",
+   "jobs": []
+  },
+  {
+   "id": "27",
+   "name": "Data Entry Operator",
+   "jobs": []
+  },
+  {
+   "id": "28",
+   "name": "Database Administration (DBA)",
+   "jobs": []
+  },
+  {
+   "id": "30",
+   "name": "Distribution & Logistics",
+   "jobs": []
+  },
+  {
+   "id": "31",
+   "name": "Education & Training",
+   "jobs": [
+    "tro-giang-ielts-534",
+    "giao-vien-ielts-506",
+    "truong-phong-tuyen-sinh-537",
+    "giao-vien-ielts-fulltime-538",
+    "teamlead-rd-539"
+   ]
+  },
+  {
+   "id": "32",
+   "name": "Electronics Technician",
+   "jobs": []
+  },
+  {
+   "id": "33",
+   "name": "Engineering",
+   "jobs": [
+    "data-engineer-onsite-vpbank-543",
+    "business-analyst-onsite-vpbank-544",
+    "backend-developer-onsite-vpbank-545",
+    "qa-engineer-onsite-vpbank-546",
+    "data-tester-557",
+    "data-analyst-558",
+    "ky-su-ky-thuat-san-pham-531"
+   ]
+  },
+  {
+   "id": "34",
+   "name": "Engineering Construction",
+   "jobs": []
+  },
+  {
+   "id": "35",
+   "name": "Executive Management",
+   "jobs": []
+  },
+  {
+   "id": "40",
+   "name": "Graphic Design",
+   "jobs": [
+    "nhan-vien-graphic-designer-485"
+   ]
+  },
+  {
+   "id": "42",
+   "name": "Health & Medicine",
+   "jobs": []
+  },
+  {
+   "id": "44",
+   "name": "Health Care",
+   "jobs": [
+    "huan-luyen-vien-pilates-binh-duong-cu-553",
+    "huan-luyen-vien-pilates-ho-chi-minh-554",
+    "bac-si-da-lieu-quan-ly-spa-492"
+   ]
+  },
+  {
+   "id": "47",
+   "name": "Hotel/Restaurant Management",
+   "jobs": [
+    "quan-ly-chi-nhanh-511"
+   ]
+  },
+  {
+   "id": "48",
+   "name": "HR",
+   "jobs": [
+    "talent-acquistion-manager-abbott-504"
+   ]
+  },
+  {
+   "id": "49",
+   "name": "Human Resources",
+   "jobs": []
+  },
+  {
+   "id": "50",
+   "name": "Import & Export",
+   "jobs": []
+  },
+  {
+   "id": "51",
+   "name": "Industrial Production",
+   "jobs": []
+  },
+  {
+   "id": "57",
+   "name": "IT Security",
+   "jobs": []
+  },
+  {
+   "id": "58",
+   "name": "IT Systems Analyst",
+   "jobs": []
+  },
+  {
+   "id": "59",
+   "name": "Legal & Corporate Affairs",
+   "jobs": []
+  },
+  {
+   "id": "62",
+   "name": "Logistics & Warehousing",
+   "jobs": [
+    "chuyen-vien-logistics-duong-bo-476"
+   ]
+  },
+  {
+   "id": "64",
+   "name": "Management Consulting",
+   "jobs": []
+  },
+  {
+   "id": "67",
+   "name": "Manufacturing",
+   "jobs": []
+  },
+  {
+   "id": "69",
+   "name": "Marketing",
+   "jobs": [
+    "nhan-vien-booking-kolkoc-tiktok-494"
+   ]
+  },
+  {
+   "id": "70",
+   "name": "Marketing",
+   "jobs": []
+  },
+  {
+   "id": "71",
+   "name": "Media - Print & Electronic",
+   "jobs": []
+  },
+  {
+   "id": "72",
+   "name": "Media & Advertising",
+   "jobs": []
+  },
+  {
+   "id": "82",
+   "name": "Operations",
+   "jobs": []
+  },
+  {
+   "id": "83",
+   "name": "Planning",
+   "jobs": []
+  },
+  {
+   "id": "88",
+   "name": "Procurement",
+   "jobs": []
+  },
+  {
+   "id": "89",
+   "name": "Product Developer",
+   "jobs": []
+  },
+  {
+   "id": "93",
+   "name": "Production",
+   "jobs": []
+  },
+  {
+   "id": "95",
+   "name": "Project Management",
+   "jobs": []
+  },
+  {
+   "id": "101",
+   "name": "Quality Assurance (QA)",
+   "jobs": []
+  },
+  {
+   "id": "105",
+   "name": "Recruitment",
+   "jobs": []
+  },
+  {
+   "id": "107",
+   "name": "Research & Development (R&D)",
+   "jobs": []
+  },
+  {
+   "id": "111",
+   "name": "Restaurant Management",
+   "jobs": []
+  },
+  {
+   "id": "112",
+   "name": "Retail",
+   "jobs": [
+    "truong-nhom-tuyen-dung-555",
+    "giam-doc-kinh-doanh-542",
+    "stylist-483"
+   ]
+  },
+  {
+   "id": "114",
+   "name": "Retail Buyer",
+   "jobs": []
+  },
+  {
+   "id": "118",
+   "name": "Sales",
+   "jobs": [
+    "nhan-vien-kinh-doanh-khoi-fdi-nghe-an-556",
+    "nhan-vien-kinh-doanh-khoi-fdi-bac-ninh-535",
+    "accountant-specialist-501",
+    "nhan-vien-kinh-doanh-khoi-khach-hang-doanh-nghiep-viet-nam-541",
+    "telesales-tai-chinh-540",
+    "nhan-vien-kinh-doanh-kenh-b2b-529",
+    "nhan-vien-kinh-doanh-khoi-fdi-524",
+    "nhan-vien-kinh-doanh-dich-vu-khoi-bank-522",
+    "nhan-vien-ho-tro-kinh-doanh-512",
+    "chuyen-vien-tu-van-510",
+    "presales-manager-ha-noi-473",
+    "sales-executive-500",
+    "nhan-vien-telesales-tu-van-tai-chinh-497",
+    "telesales-496",
+    "seller-trainee-parttimefulltime-491",
+    "sales-manager-482",
+    "sales-tieng-trung-481",
+    "chuyen-vien-phat-trien-thi-truong-480",
+    "chuyen-vien-kinh-doanh-479",
+    "nhan-vien-kinh-doanh-ky-thuat-477",
+    "presales-manager-ho-chi-minh-474"
+   ]
+  },
+  {
+   "id": "119",
+   "name": "Sales & Business Development",
+   "jobs": [
+    "nhan-vien-kinh-doanh-hang-hoa-khoi-bank-to-chuc-tai-chinh-523"
+   ]
+  },
+  {
+   "id": "120",
+   "name": "Sales Support",
+   "jobs": []
+  },
+  {
+   "id": "121",
+   "name": "Search Engine Optimization (SEO)",
+   "jobs": [
+    "chuyen-vien-quan-tri-toi-uu-website-489"
+   ]
+  },
+  {
+   "id": "122",
+   "name": "Secretarial, Clerical & Front Office",
+   "jobs": []
+  },
+  {
+   "id": "128",
+   "name": "Software & Web Development",
+   "jobs": []
+  },
+  {
+   "id": "133",
+   "name": "Supply Chain Management",
+   "jobs": []
+  },
+  {
+   "id": "135",
+   "name": "Teachers/Education, Training & Development",
+   "jobs": []
+  },
+  {
+   "id": "137",
+   "name": "Tele Sale Representative",
+   "jobs": [
+    "telesales-496"
+   ]
+  },
+  {
+   "id": "138",
+   "name": "Telemarketing",
+   "jobs": []
+  },
+  {
+   "id": "588",
+   "name": "Kế toán/Kiểm toán",
+   "jobs": [
+    "nhan-vien-ke-toan-thue-490"
+   ]
+  },
+  {
+   "id": "589",
+   "name": "Kỹ sư Phần mềm/Công nghệ Thông tin",
+   "jobs": [
+    "data-engineer-470",
+    "channel-manager-hcm-475",
+    "fullstack-developer-tcb-514",
+    "auto-test-tcb-515",
+    "ba-bao-hiem-tcb-516",
+    "business-analyst-517",
+    "mobile-developer-519",
+    "tester-520",
+    "data-engineer-521"
+   ]
+  },
+  {
+   "id": "635",
+   "name": "Kinh doanh/Bán hàng",
+   "jobs": []
+  },
+  {
+   "id": "639",
+   "name": "Marketing/PR/Quảng cáo",
+   "jobs": [
+    "chuyen-vien-influencer-marketing-488"
+   ]
+  },
+  {
+   "id": "640",
+   "name": "Dịch vụ khách hàng/Vận hành",
+   "jobs": [
+    "massie-creator-tiktok-shop-498",
+    "mid-creator-tiktok-shop-499"
+   ]
+  },
+  {
+   "id": "641",
+   "name": "Nhân sự/Hành chính/Pháp chế",
+   "jobs": [
+    "truong-phong-nhan-su-536"
+   ]
+  },
+  {
+   "id": "642",
+   "name": "Tài chính/Ngân hàng/Bảo hiểm",
+   "jobs": []
+  },
+  {
+   "id": "643",
+   "name": "Bất động sản/Xây dựng",
+   "jobs": [
+    "ky-su-chuyen-nganh-mo-dia-chat-478",
+    "kiem-soat-chi-phi-ccm-495",
+    "nhan-vien-quan-he-khach-hang-513",
+    "quan-ly-du-angiam-sat-du-an-528"
+   ]
+  },
+  {
+   "id": "644",
+   "name": "Sản xuất",
+   "jobs": [
+    "ky-thuat-vien-co-khi-dien-han-548",
+    "quan-ly-san-xuat-493"
+   ]
+  },
+  {
+   "id": "645",
+   "name": "Giáo dục/Đào tạo",
+   "jobs": []
+  },
+  {
+   "id": "646",
+   "name": "Bán lẻ/Dịch vụ đời sống",
+   "jobs": [
+    "demand-branding-manager-533"
+   ]
+  },
+  {
+   "id": "647",
+   "name": "Phim và truyền hình/Báo chí/Xuất bản",
+   "jobs": []
+  },
+  {
+   "id": "648",
+   "name": "Điện/Điện tử/Viễn thông",
+   "jobs": []
+  },
+  {
+   "id": "649",
+   "name": "Logistics/Thu mua/Kho/Vận tải",
+   "jobs": []
+  },
+  {
+   "id": "650",
+   "name": "Tài xế",
+   "jobs": []
+  },
+  {
+   "id": "651",
+   "name": "Tư vấn chuyên môn/Luật/Biên phiên dịch",
+   "jobs": []
+  },
+  {
+   "id": "652",
+   "name": "Dược/Y tế/Sức khoẻ/Công nghệ sinh học",
+   "jobs": []
+  },
+  {
+   "id": "653",
+   "name": "Thiết kế",
+   "jobs": []
+  },
+  {
+   "id": "654",
+   "name": "Nhà hàng/Khách sạn/Du lịch",
+   "jobs": []
+  },
+  {
+   "id": "655",
+   "name": "Năng lượng/Môi trường/Nông nghiệp",
+   "jobs": []
+  },
+  {
+   "id": "656",
+   "name": "Nhóm nghề khác",
+   "jobs": [
+    "huan-luyen-vien-yoga-ha-noi-549",
+    "huan-luyen-vien-yoga-hcm-550",
+    "huan-luyen-vien-yoga-binh-duong-cu-551",
+    "huan-luyen-vien-pilates-ha-noi-552",
+    "rsm-472",
+    "nhan-vien-quay-dung-video-503"
+   ]
+  },
+  {
+   "id": "657",
+   "name": "Kỹ sư cơ khí",
+   "jobs": []
+  }
+ ],
+ "industries": [
+  {
+   "id": "34",
+   "name": "BPO",
+   "jobs": [],
+   "footer": true
+  },
+  {
+   "id": "257",
+   "name": "Khác",
+   "jobs": [],
+   "footer": true
+  },
+  {
+   "id": "242",
+   "name": "Thực phẩm - Đồ uống",
+   "jobs": [],
+   "footer": true
+  }
+ ],
+ "searchAreas": [
+  {
+   "id": "588",
+   "name": "Kế toán/Kiểm toán"
+  },
+  {
+   "id": "589",
+   "name": "Kỹ sư Phần mềm/Công nghệ Thông tin"
+  },
+  {
+   "id": "635",
+   "name": "Kinh doanh/Bán hàng"
+  },
+  {
+   "id": "639",
+   "name": "Marketing/PR/Quảng cáo"
+  },
+  {
+   "id": "640",
+   "name": "Dịch vụ khách hàng/Vận hành"
+  },
+  {
+   "id": "641",
+   "name": "Nhân sự/Hành chính/Pháp chế"
+  },
+  {
+   "id": "642",
+   "name": "Tài chính/Ngân hàng/Bảo hiểm"
+  },
+  {
+   "id": "643",
+   "name": "Bất động sản/Xây dựng"
+  },
+  {
+   "id": "644",
+   "name": "Sản xuất"
+  },
+  {
+   "id": "645",
+   "name": "Giáo dục/Đào tạo"
+  },
+  {
+   "id": "646",
+   "name": "Bán lẻ/Dịch vụ đời sống"
+  },
+  {
+   "id": "647",
+   "name": "Phim và truyền hình/Báo chí/Xuất bản"
+  },
+  {
+   "id": "648",
+   "name": "Điện/Điện tử/Viễn thông"
+  },
+  {
+   "id": "649",
+   "name": "Logistics/Thu mua/Kho/Vận tải"
+  },
+  {
+   "id": "650",
+   "name": "Tài xế"
+  },
+  {
+   "id": "651",
+   "name": "Tư vấn chuyên môn/Luật/Biên phiên dịch"
+  },
+  {
+   "id": "652",
+   "name": "Dược/Y tế/Sức khoẻ/Công nghệ sinh học"
+  },
+  {
+   "id": "653",
+   "name": "Thiết kế"
+  },
+  {
+   "id": "654",
+   "name": "Nhà hàng/Khách sạn/Du lịch"
+  },
+  {
+   "id": "655",
+   "name": "Năng lượng/Môi trường/Nông nghiệp"
+  },
+  {
+   "id": "656",
+   "name": "Nhóm nghề khác"
+  },
+  {
+   "id": "657",
+   "name": "Kỹ sư cơ khí"
+  }
+ ],
+ "featuredCompanies": [
+  "gobranding-68",
+  "canawan-51",
+  "dannygreen-74",
+  "fe-credit-49",
+  "cong-ty-tnhh-dau-tu-va-phat-trien-nang-luong-hoang-thang-60",
+  "cong-ty-tnhh-ads-agency-viet-nam-64",
+  "cong-ty-tnhh-ngk-tan-do-72",
+  "haivan-73",
+  "sponsorship-76",
+  "cong-ty-tnhh-tu-van-va-dich-vu-thanh-cong-viet-nam-52",
+  "light-humans-clients-44",
+  "light-human-33",
+  "concentrix-50",
+  "cong-ty-co-phan-cong-nghe-eup-75"
+ ],
+ "latestJobs": [
+  "manual-tester-app-559",
+  "data-analyst-558",
+  "data-tester-557",
+  "nhan-vien-kinh-doanh-khoi-fdi-nghe-an-556",
+  "truong-nhom-tuyen-dung-555",
+  "huan-luyen-vien-pilates-ho-chi-minh-554",
+  "huan-luyen-vien-pilates-binh-duong-cu-553",
+  "huan-luyen-vien-pilates-ha-noi-552",
+  "huan-luyen-vien-yoga-binh-duong-cu-551",
+  "huan-luyen-vien-yoga-hcm-550",
+  "huan-luyen-vien-yoga-ha-noi-549",
+  "ky-thuat-vien-co-khi-dien-han-548",
+  "ke-toan-truong-547",
+  "qa-engineer-onsite-vpbank-546",
+  "backend-developer-onsite-vpbank-545",
+  "business-analyst-onsite-vpbank-544",
+  "data-engineer-onsite-vpbank-543",
+  "giam-doc-kinh-doanh-542"
+ ]
+}

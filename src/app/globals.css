@@ -1,0 +1,167 @@
+@import "tailwindcss";
+
+/* ---------------------------------------------------------------
+   Design tokens taken from job.lighthuman.vn (css/main.css)
+---------------------------------------------------------------- */
+@theme {
+  --color-brand: #056cb8;
+  --color-brand-dark: #064c7f;
+  --color-navy: #033d66;
+  --color-sun: #ffd302;
+  --color-ink: #212529;
+  --color-charcoal: #2a2b32;
+  --color-mist: #f3f5f7;
+  --color-cloud: #f6f6f6;
+  --color-ice: #f2f6fd;
+  --color-snow: #f9fafb;
+  --color-line: #eeeeee;
+  --color-muted: #999999;
+  --color-slate: #8c96a3;
+  --color-tag-green: #6aca00;
+  --color-tag-orange: #f8a60c;
+  --color-tag-violet: #330be3;
+  --color-danger: #e01010;
+  --color-star: #f9b420;
+
+  --font-sans: var(--font-open-sans), "Open Sans", sans-serif;
+  --font-heading: var(--font-montserrat), Montserrat, sans-serif;
+
+  --container-site: 1350px;
+
+  --animate-pulse-ring: pulse-ring 6s ease infinite;
+  --animate-pulse-ring-fast: pulse-ring 4s ease infinite;
+  --animate-scale-up: scale-up-center 2s ease-in-out infinite alternate-reverse both;
+
+  @keyframes pulse-ring {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.06); }
+    100% { transform: scale(1); }
+  }
+  @keyframes scale-up-center {
+    0% { transform: scale(0.5); }
+    100% { transform: scale(1); }
+  }
+}
+
+/* The original theme resets everything to line-height 1 and Montserrat headings. */
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    overflow-x: clip;
+    /* Font Awesome 7 defaults to fixed-width icons; the original (FA5) uses natural width. */
+    --fa-width: auto;
+  }
+  body {
+    @apply overflow-x-clip bg-white font-sans text-[14px] leading-none text-ink antialiased;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply mb-2.5 font-heading font-semibold;
+  }
+  h1 { font-size: 45px; }
+  h2 { font-size: 30px; }
+  h3 { font-size: 25px; }
+  h4 { font-size: 20px; }
+  h5 { font-size: 18px; }
+  h6 { font-size: 16px; }
+  p {
+    line-height: 22px;
+  }
+  a {
+    @apply text-brand transition-all duration-300 ease-in-out;
+  }
+  input, select, textarea, button {
+    @apply outline-none;
+  }
+  button:not(:disabled), [role="button"] {
+    cursor: pointer;
+  }
+}
+
+@layer components {
+  /* Bootstrap-like centered container used across the site */
+  .container-site {
+    @apply mx-auto w-full max-w-site px-3;
+  }
+
+  /* Decorative translucent circles behind the hero halves / CTA boxes */
+  .bubble-halo {
+    @apply relative overflow-hidden;
+  }
+  .bubble-halo::before,
+  .bubble-halo::after {
+    content: "";
+    @apply pointer-events-none absolute size-[1000px] rounded-full bg-white;
+  }
+  .bubble-halo::before {
+    @apply bottom-[30px] left-[-400px] animate-pulse-ring opacity-10;
+  }
+  .bubble-halo::after {
+    @apply bottom-[150px] left-[-350px] animate-pulse-ring-fast opacity-5;
+  }
+  .bubble-halo-strong::before,
+  .bubble-halo-strong::after {
+    @apply opacity-20;
+  }
+  .bubble-halo-box::before {
+    @apply bottom-[30px] left-[-300px];
+  }
+  .bubble-halo-box::after {
+    @apply bottom-[30px] left-[-200px] animate-none;
+  }
+
+  /* Rich text coming from the CMS (job description, company about) */
+  .rich-content p {
+    @apply mt-5 mb-0 leading-6 break-words text-[#555];
+  }
+  .rich-content strong,
+  .rich-content b {
+    @apply font-bold;
+  }
+  .rich-content em {
+    @apply italic;
+  }
+  .rich-content u {
+    @apply underline;
+  }
+  .rich-content h1, .rich-content h2, .rich-content h3, .rich-content h4 {
+    @apply mt-5 text-base font-bold text-[#555];
+  }
+  .rich-content ul,
+  .rich-content ol {
+    @apply mb-[30px];
+  }
+  .rich-content li {
+    @apply relative py-[5px] pl-[25px] leading-6 text-[#555];
+  }
+  .rich-content li::before {
+    content: "\f00c";
+    font-family: "Font Awesome 7 Free";
+    font-weight: 900;
+    @apply absolute left-0 text-[13px] text-brand;
+  }
+  .rich-content.rich-tight ul {
+    @apply mb-0;
+  }
+  .rich-content a {
+    @apply text-brand;
+  }
+
+  /* Same rich text, used on the CMS pages (about / terms) */
+  .cms-content p {
+    @apply text-base leading-6;
+  }
+  .cms-content ul li {
+    @apply relative py-[5px] pl-[25px] text-base leading-6;
+  }
+
+  /* Square checkbox from the jobs sidebar */
+  .opt-check {
+    @apply absolute top-0 left-0 grid size-5 cursor-pointer place-items-center border border-[#d1d1d1] bg-white text-[12px] text-[#4ece00];
+  }
+  .opt-check > i {
+    visibility: hidden;
+  }
+  input:checked + .opt-check > i {
+    visibility: visible;
+  }
+}
